@@ -1,6 +1,7 @@
 /*
     SSDi.h - Library for driving 7-Segments display.
     Created by Ali A. Alshekarchee, June 18, 2018.
+    alielshekarchee@gmail.com
     Released into the public domain.
     This file is part of SSDi library.
     ////////////////////////////////////////////////////////////////////
