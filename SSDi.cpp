@@ -21,7 +21,7 @@
 
 SSDi::SSDi (int *Segments, bool SegmentsPolarity, int *Shifters, int ShiftersNumber, bool ShiftersPolarity)
 {
-    if (ShiftersNumber > 13)
+    if (ShiftersNumber > 12)
     {
         ShiftersNumber = 12;
     }
